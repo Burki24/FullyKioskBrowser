@@ -37,7 +37,7 @@
             "versionCode": "Versionsnummer",
             "build": "Build",
             "model": "Model",
-            "manufacturer", "Hersteller",
+            "manufacturer": "Hersteller",
             "androidVersion": "Android Version",
             "SDK": "SDK",
             "webviewUA": "Browser",
