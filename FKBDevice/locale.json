@@ -45,7 +45,7 @@
             "toForeground": "In den Vordergrund",
             "foregroundActivity": "Vordergrundaktivität",
             "motionDetectorStatus": "Bewegungssensor Status",
-            "isDeviceAdmin": "Geräte Administrator"
+            "isDeviceAdmin": "Geräte Administrator",
             "isDeviceOwner": "Geräte Eigentümer",
             "internalStorageFreeSpace": "Interner Speicher frei",
             "internalStorageTotalSpace": "interner Speicher gesamt",
